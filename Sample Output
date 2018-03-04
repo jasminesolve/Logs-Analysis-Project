@@ -1,10 +1,18 @@
 What's the most popular three articles of all time?
-[('Candidate is jerk, alleges rival', 342102), ('Bears love berries, alleges bear', 256365), ('Bad things gone, say good people', 171762)]
+Candidate is jerk, alleges rival -342102views
 
+Bears love berries, alleges bear -256365views
+
+Bad things gone, say good people -171762views
 
 Who are the most popular article authors of all time?
-[('Ursula La Multa', 512805), ('Rudolf von Treppenwitz', 427781), ('Anonymous Contributor', 171762), ('Markoff Chaney', 85387)]
+Ursula La Multa -512805views
 
+Rudolf von Treppenwitz -427781views
+
+Anonymous Contributor -171762views
+
+Markoff Chaney -85387views
 
 On which days did more than '1%' of requests lead to errors?
-[(datetime.date(2016, 7, 17), 0.0226268624680273)]
+2016-07-17 2%

@@ -15,5 +15,10 @@ Project Logs Analysis
    "vagrant ssh"
 3. prepare the database "newsdata.sql" by command
    "psql -d news -f newsdata.sql"
-4. run newsdb.py file by python3
-5. check output
+4. The newsdb.py already include several new created views, which are
+   "CREATE VIEW PA AS..."
+   "CREATE VIEW DR AS..."
+   "CREATE VIEW ER AS..."
+   "CREATE VIEW RT AS..."
+5. run newsdb.py file by python3
+6. check output
