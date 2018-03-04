@@ -1,0 +1,19 @@
+Project Logs Analysis
+
+*************
+   Content
+*************
+1.newsdb.py (main file)
+2.Sample Output (plain text)
+
+*************
+  Procedure
+*************
+1. start terminal in folder Logs Analysis
+2. start vagrant by command
+   "vagrant up"
+   "vagrant ssh"
+3. prepare the database "newsdata.sql" by command
+   "psql -d news -f newsdata.sql"
+4. run newsdb.py file by python3
+5. check output
